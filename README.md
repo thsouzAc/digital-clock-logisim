@@ -19,7 +19,7 @@ Para abrir e simular o projeto, é necessário o software Logisim.
 1. Baixe e instale o Logisim, caso ainda não tenha.
 2. Clone este repositório ou baixe os arquivos manualmente:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/thsouzAc/digital-clock-logisim.git
    ```
 3. Abra o arquivo do projeto (`relogio-digital.circ`) no Logisim.
 4. Simule o circuito e teste suas funcionalidades.
